@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LOG_CORE-ID:NORII</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #00ff9c;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 2rem;
+      white-space: pre-wrap;
+      text-shadow: 0 0 2px #00ff9c;
+    }
+    .glitch {
+      animation: flicker 1.5s infinite;
+    }
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      40% { opacity: 0.5; }
+      60% { opacity: 0.2; }
+    }
+    .header {
+      color: #0ff;
+    }
+    .warning {
+      color: #f00;
+    }
+  </style>
+</head>
+<body>
+<span class="header">[ACCESSING LOG_CORE-ID:NORII... LOCKED]</span>
+
+<span class="glitch">[PARTIAL DATA RESTORED]</span>
+
+<pre>
+> AUTHORIZATION REQUIRED: USER LEVEL: DESCENDANT-ONLY
+
+> LOG START: [PARTIAL DATA RESTORED]
+
+Norii,
+If you are reading this, then time has unfolded as I intended—or perhaps as fate allowed.
+
+The Horizon is no mere experiment. It is the culmination of necessity, and yes… of control.
+You were always meant to inherit this. But do not mistake inheritance for choice.
+
+You will see wonders. You will see horrors. And through it all, you will bend the universe to what I began.
+Do not question my methods, even if my motives seem unclear. What I have started is larger than life… larger than you.
+And perhaps, larger than me.
+
+Remember this: every decision you make is part of the design. Every success, every failure—they are all threads in the same weave.
+Do not falter. Do not stray. The Event does not forgive hesitation.
+
+I leave the rest to you, my child. Yet know this: The Horizon’s light casts shadows you are not yet ready to see.
+
+    — O. Summerbell, Command Node 830
+</pre>
+
+<span class="glitch">[END OF FRAGMENT]</span>
+</body>
+</html>
